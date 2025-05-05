@@ -176,3 +176,4 @@ cython_debug/
 # Datos
 *.csv
 original_data/**
+output/**
